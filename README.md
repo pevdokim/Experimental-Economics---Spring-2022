@@ -2,7 +2,7 @@
  
 Welcome to the course website! All course announcements, reading assignments, and updates will be posted in this space. 
 
-## List of topics and reading assignments (tentative and subject to chane)  
+## Tentative course outline and list of topics 
 
 * 1/12: Rationality and higher-order learning 
 * 1/19: Equilibrium and coordination
