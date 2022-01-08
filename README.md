@@ -20,7 +20,7 @@ Welcome to the course website! All course announcements, reading assignments, an
 
 ## Student presentations 
 
-Please select a paper to present from the following list. Once a paper is assigned to a presenter, the presenter's name together with the "🔴" symbol is posted next to the title of the paper. 
+Please select a paper to present from the following list. Once a paper is assigned to a presenter, the presenter's name is posted next to the paper, and the paper is ~~crossed out~~. 
 
 * Burchardi, Konrad B., and Stefan P. Penczynski. "Out of your mind: Eliciting individual reasoning in one shot games." Games and Economic Behavior 84 (2014): 39-57.
 * Costa-Gomes, M. A., & Weizsäcker, G. (2008). Stated beliefs and play in normal-form games. The Review of Economic Studies, 75(3), 729-762.
