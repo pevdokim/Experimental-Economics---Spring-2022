@@ -16,7 +16,7 @@ Welcome to the course website! All course announcements, reading assignments, an
 
 ## Reading assignments 
 
-* 1/12: 
+* 1/12: Van Huyck, J. B., Battalio, R. C., & Beil, R. O. (1990). Tacit coordination games, strategic uncertainty, and coordination failure. The American Economic Review, 80(1), 234-248.
 
 ## Student presentations 
 
