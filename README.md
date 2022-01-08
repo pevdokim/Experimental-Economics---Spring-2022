@@ -1,4 +1,4 @@
-# Experimental Economics - Spring-2022
+# Experimental Economics (Spring 2022)
  
 Welcome to the course website! All course announcements, reading assignments, and updates will be posted in this space. 
 
