@@ -41,6 +41,3 @@ Please select a paper to present from the following list. Once a paper is assign
 * Cox, J. C. (2004). How to identify trust and reciprocity. Games and economic behavior, 46(2), 260-281.
 * Dana, J., Weber, R. A., & Kuang, J. X. (2007). Exploiting moral wiggle room: experiments demonstrating an illusory preference for fairness. Economic Theory, 33(1), 67-80
 * Fehr, E., & Gächter, S. (2000). Cooperation and punishment in public goods experiments. American Economic Review, 90(4), 980-994
-![image](https://user-images.githubusercontent.com/95922789/148662410-b0f67a37-e6d2-4e3c-8811-3952d4253b3f.png)
-
-
