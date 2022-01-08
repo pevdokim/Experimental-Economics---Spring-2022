@@ -35,7 +35,7 @@ Please select a paper to present from the following list and send me an email wi
 *	Dal Bó, P., Fréchette, G. R., & Kim, J. (2021). The determinants of efficient behavior in coordination games. Games and Economic Behavior, 130, 352-368.
 *	Dugar, S., & Shahriar, Q. (2018). Restricted and free-form cheap-talk and the scope for efficient coordination. Games and Economic Behavior, 109, 294-310.
 
-*Dynamic Games* 
+*Dynamic games* 
 
 *	Binmore, K., McCarthy, J., Ponti, G., Samuelson, L., & Shaked, A. (2002). A backward induction experiment. Journal of Economic theory, 104(1), 48-88.
 *	Gneezy, U., Rustichini, A., & Vostroknutov, A. (2010). Experience and insight in the race game. Journal of economic behavior & organization, 75(2), 144-155.
