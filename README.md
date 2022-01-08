@@ -9,25 +9,15 @@ Welcome to the course website! All course announcements, reading assignments, an
 ## List of topics and reading assignments (tentative and subject to chane)  
 
 * 1/12: Rationality and higher-order learning 
-
 * 1/19: Equilibrium and coordination
-
 * 1/26: Dynamic games
-
 * 2/2: Prosocial behavior 
-
-* 2/9: Open 
-
-* 2/16: A Primer on Experimental Design  
-
+* 2/9: **Midterm**  + Primer on Experimental Design  
 * 3/2: Student presentations
-
 * 3/9: Student presentations
+* 3/16: **Final project due date** + Student presentations
+* 3/23: Discussion/implementation of final projects 
 
-* 3/16: Student presentations
-
-* 3/23: Student presentations
-
-
+## Reading assignments 
 
 
