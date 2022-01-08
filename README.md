@@ -4,7 +4,7 @@ Welcome to the course website! All course announcements, reading assignments, an
 
 ## Tentative course outline and list of topics 
 
-* 1/12: Rationality and higher-order learning 
+* 1/12: Rationality and higher-order thinking 
 * 1/19: Equilibrium and coordination
 * 1/26: Dynamic games
 * 2/2: Prosocial behavior 
