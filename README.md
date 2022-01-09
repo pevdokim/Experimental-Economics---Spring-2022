@@ -1,6 +1,6 @@
-# Experimental Economics (Spring 2022)
+# Experimental Economics (Economics MA @ Higher School of Economics, Spring 2022)
  
-Welcome to the course website! All course announcements, reading assignments, and updates will be posted in this space. E-mail me at pevdokim at gmail dot com with any questions! 
+Welcome to the course website! All course announcements, reading assignments, and updates will be posted here. E-mail me at pevdokim at gmail dot com with any questions! 
 
 ## Tentative course outline and list of topics 
 
@@ -8,7 +8,7 @@ Welcome to the course website! All course announcements, reading assignments, an
 * 1/19: **Equilibrium and coordination**
 * 1/26: **Dynamic games**
 * 2/2: **Prosocial behavior** 
-* 2/9: **Midterm**  + Primer on Experimental Design  
+* 2/9: **Midterm**  + Primer on oTree and experimental design  
 * 3/2: Student presentations
 * 3/9: Student presentations
 * 3/16: **Final project due date** + Student presentations
@@ -16,7 +16,7 @@ Welcome to the course website! All course announcements, reading assignments, an
 
 ## Reading assignments 
 
-* 1/12: 
+* 1/12: Van Huyck, J. B., Battalio, R. C., & Beil, R. O. (1990). Tacit coordination games, strategic uncertainty, and coordination failure. The American Economic Review, 80(1), 234-248.
 
 ## Student presentations 
 
@@ -24,7 +24,7 @@ Please select a paper to present from the following list and send me an email wi
 
 *Rationality and higher-order thinking*
 
-*	Brocas, I., & Carrillo, J. D. (2021). Steps of reasoning in children and adolescents. Journal of Political Economy, 129(7)
+*	Brocas, I., Carrillo, J. D., & Sachdeva, A. (2018). The path to equilibrium in sequential and simultaneous games: A mousetracking study. Journal of Economic Theory, 178, 246-274.
 *	Burchardi, Konrad B., and Stefan P. Penczynski. "Out of your mind: Eliciting individual reasoning in one shot games." Games and Economic Behavior 84 (2014): 39-57.
 *	Kneeland, T. (2015). Identifying Higher‐Order Rationality. Econometrica, 83(5), 2065-2079.
 
@@ -35,7 +35,7 @@ Please select a paper to present from the following list and send me an email wi
 *	Dal Bó, P., Fréchette, G. R., & Kim, J. (2021). The determinants of efficient behavior in coordination games. Games and Economic Behavior, 130, 352-368.
 *	Dugar, S., & Shahriar, Q. (2018). Restricted and free-form cheap-talk and the scope for efficient coordination. Games and Economic Behavior, 109, 294-310.
 
-*Dynamic Games* 
+*Dynamic games* 
 
 *	Binmore, K., McCarthy, J., Ponti, G., Samuelson, L., & Shaked, A. (2002). A backward induction experiment. Journal of Economic theory, 104(1), 48-88.
 *	Gneezy, U., Rustichini, A., & Vostroknutov, A. (2010). Experience and insight in the race game. Journal of economic behavior & organization, 75(2), 144-155.
