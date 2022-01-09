@@ -1,4 +1,4 @@
-# Experimental Economics (HSE Economics MA, Spring 2022)
+# Experimental Economics (Economics MA @ Higher School of Economics, Spring 2022)
  
 Welcome to the course website! All course announcements, reading assignments, and updates will be posted in this space. E-mail me at pevdokim at gmail dot com with any questions! 
 
