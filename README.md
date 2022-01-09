@@ -1,6 +1,6 @@
 # Experimental Economics (Economics MA @ Higher School of Economics, Spring 2022)
  
-Welcome to the course website! All course announcements, reading assignments, and updates will be posted in this space. E-mail me at pevdokim at gmail dot com with any questions! 
+Welcome to the course website! All course announcements, reading assignments, and updates will be posted here. E-mail me at pevdokim at gmail dot com with any questions! 
 
 ## Tentative course outline and list of topics 
 
@@ -8,7 +8,7 @@ Welcome to the course website! All course announcements, reading assignments, an
 * 1/19: **Equilibrium and coordination**
 * 1/26: **Dynamic games**
 * 2/2: **Prosocial behavior** 
-* 2/9: **Midterm**  + Primer on Experimental Design  
+* 2/9: **Midterm**  + Primer on oTree and experimental design  
 * 3/2: Student presentations
 * 3/9: Student presentations
 * 3/16: **Final project due date** + Student presentations
