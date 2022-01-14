@@ -40,8 +40,8 @@ Please select a paper to present from the following list and send me an email wi
 
 *	Binmore, K., McCarthy, J., Ponti, G., Samuelson, L., & Shaked, A. (2002). A backward induction experiment. Journal of Economic theory, 104(1), 48-88.
 *	**Ayazhan** ~~Gneezy, U., Rustichini, A., & Vostroknutov, A. (2010). Experience and insight in the race game. Journal of economic behavior & organization, 75(2), 144-155.~~
-* **Alexandra**	~~Dal Bó, P., & Fréchette, G. R. (2019). Strategy choice in the infinitely repeated prisoner's dilemma. American Economic Review, 109(11), 3929-52.~~
-*	Embrey, M., Fréchette, G. R., & Yuksel, S. (2018). Cooperation in the finitely repeated prisoner’s dilemma. The Quarterly Journal of Economics, 133(1), 509-551.
+* 	Dal Bó, P., & Fréchette, G. R. (2019). Strategy choice in the infinitely repeated prisoner's dilemma. American Economic Review, 109(11), 3929-52.
+*	**Alexandra** ~~Embrey, M., Fréchette, G. R., & Yuksel, S. (2018). Cooperation in the finitely repeated prisoner’s dilemma. The Quarterly Journal of Economics, 133(1), 509-551.~~
 
 *Prosocial behavior*
 
