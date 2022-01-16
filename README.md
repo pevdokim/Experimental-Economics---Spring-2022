@@ -32,7 +32,7 @@ Please select a paper to present from the following list and send me an email wi
 *Equilibrium and coordination* 
 
 *	Cason, T. N., Sharma, T., & Vadovič, R. (2020). Correlated beliefs: Predicting outcomes in 2× 2 games. Games and Economic Behavior, 122, 256-276.
-*	Charness, G. (2000). Self-serving cheap talk: A test of Aumann's conjecture. Games and Economic Behavior, 33(2), 177-194.
+*	**Darya** ~~Charness, G. (2000). Self-serving cheap talk: A test of Aumann's conjecture. Games and Economic Behavior, 33(2), 177-194.~~
 *	Dal Bó, P., Fréchette, G. R., & Kim, J. (2021). The determinants of efficient behavior in coordination games. Games and Economic Behavior, 130, 352-368.
 *	Dugar, S., & Shahriar, Q. (2018). Restricted and free-form cheap-talk and the scope for efficient coordination. Games and Economic Behavior, 109, 294-310.
 
