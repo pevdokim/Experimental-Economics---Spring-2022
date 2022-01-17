@@ -46,7 +46,7 @@ Please select a paper to present from the following list and send me an email wi
 *Prosocial behavior*
 
 *	**Yulia** ~~Andreoni, J., & Petrie, R. (2004). Public goods experiments without confidentiality: a glimpse into fund-raising. Journal of public Economics, 88(7-8), 1605-1623.~~
-*	Andreoni, J., & Rao, J. M. (2011). The power of asking: How communication affects selfishness, empathy, and altruism. Journal of public economics, 95(7-8), 513-520.
+*	**Anastasia** ~~Andreoni, J., & Rao, J. M. (2011). The power of asking: How communication affects selfishness, empathy, and altruism. Journal of public economics, 95(7-8), 513-520.~~
 *	Berg, J., Dickhaut, J., & McCabe, K. (1995). Trust, reciprocity, and social history. Games and economic behavior, 10(1), 122-142
 *	Bicchieri, C., Dimant, E., & Gächter, S. (2020). Observability, social proximity, and the erosion of norm compliance. Working paper 
 *	Charness, G., & Dufwenberg, M. (2006). Promises and partnership. Econometrica, 74(6), 1579-1601.
