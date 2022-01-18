@@ -18,6 +18,7 @@ Welcome to the course website! All course announcements, reading assignments, an
 
 * 1/12: Agranov, M., Potamites, E., Schotter, A., & Tergiman, C. (2012). Beliefs and endogenous cognitive levels: An experimental study. Games and Economic Behavior, 75(2), 449-463.
 * 1/12: Van Huyck, J. B., Battalio, R. C., & Beil, R. O. (1990). Tacit coordination games, strategic uncertainty, and coordination failure. The American Economic Review, 80(1), 234-248.
+* **1/18: Goeree, Jacob K., and Charles A. Holt. "Ten little treasures of game theory and ten intuitive contradictions." American Economic Review 91.5 (2001): 1402-1422.**
 
 ## Student presentations 
 
