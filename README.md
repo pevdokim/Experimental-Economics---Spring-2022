@@ -8,7 +8,7 @@ Welcome to the course website! All course announcements, reading assignments, an
 * 1/19: **Equilibrium and coordination**
 * 1/26: **Dynamic games**
 * 2/2: **Prosocial behavior** 
-* 2/9: **Midterm**  + Primer on oTree and experimental design  
+* 2/9: **Midterm**  + **Final date for selecting presentation** + Primer on oTree and experimental design   
 * 3/2: Student presentations
 * 3/9: Student presentations
 * 3/16: **Final project due date** + Student presentations
