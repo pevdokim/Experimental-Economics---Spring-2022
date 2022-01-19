@@ -18,6 +18,7 @@ Welcome to the course website! All course announcements, reading assignments, an
 
 * 1/12: Agranov, M., Potamites, E., Schotter, A., & Tergiman, C. (2012). Beliefs and endogenous cognitive levels: An experimental study. Games and Economic Behavior, 75(2), 449-463.
 * 1/12: Van Huyck, J. B., Battalio, R. C., & Beil, R. O. (1990). Tacit coordination games, strategic uncertainty, and coordination failure. The American Economic Review, 80(1), 234-248.
+* **1/18: Goeree, Jacob K., and Charles A. Holt. "Ten little treasures of game theory and ten intuitive contradictions." American Economic Review 91.5 (2001): 1402-1422.**
 
 ## Student presentations 
 
@@ -32,7 +33,7 @@ Please select a paper to present from the following list and send me an email wi
 *Equilibrium and coordination* 
 
 *	Cason, T. N., Sharma, T., & Vadovič, R. (2020). Correlated beliefs: Predicting outcomes in 2× 2 games. Games and Economic Behavior, 122, 256-276.
-*	Charness, G. (2000). Self-serving cheap talk: A test of Aumann's conjecture. Games and Economic Behavior, 33(2), 177-194.
+*	**Daria** ~~Charness, G. (2000). Self-serving cheap talk: A test of Aumann's conjecture. Games and Economic Behavior, 33(2), 177-194.~~
 *	Dal Bó, P., Fréchette, G. R., & Kim, J. (2021). The determinants of efficient behavior in coordination games. Games and Economic Behavior, 130, 352-368.
 *	Dugar, S., & Shahriar, Q. (2018). Restricted and free-form cheap-talk and the scope for efficient coordination. Games and Economic Behavior, 109, 294-310.
 
@@ -40,16 +41,16 @@ Please select a paper to present from the following list and send me an email wi
 
 *	Binmore, K., McCarthy, J., Ponti, G., Samuelson, L., & Shaked, A. (2002). A backward induction experiment. Journal of Economic theory, 104(1), 48-88.
 *	**Ayazhan** ~~Gneezy, U., Rustichini, A., & Vostroknutov, A. (2010). Experience and insight in the race game. Journal of economic behavior & organization, 75(2), 144-155.~~
-*	Dal Bó, P., & Fréchette, G. R. (2019). Strategy choice in the infinitely repeated prisoner's dilemma. American Economic Review, 109(11), 3929-52.
-*	Embrey, M., Fréchette, G. R., & Yuksel, S. (2018). Cooperation in the finitely repeated prisoner’s dilemma. The Quarterly Journal of Economics, 133(1), 509-551.
+* 	Dal Bó, P., & Fréchette, G. R. (2019). Strategy choice in the infinitely repeated prisoner's dilemma. American Economic Review, 109(11), 3929-52.
+*	**Alexandra** ~~Embrey, M., Fréchette, G. R., & Yuksel, S. (2018). Cooperation in the finitely repeated prisoner’s dilemma. The Quarterly Journal of Economics, 133(1), 509-551.~~
 
 *Prosocial behavior*
 
 *	**Yulia** ~~Andreoni, J., & Petrie, R. (2004). Public goods experiments without confidentiality: a glimpse into fund-raising. Journal of public Economics, 88(7-8), 1605-1623.~~
-*	Andreoni, J., & Rao, J. M. (2011). The power of asking: How communication affects selfishness, empathy, and altruism. Journal of public economics, 95(7-8), 513-520.
+*	**Anastasia** ~~Andreoni, J., & Rao, J. M. (2011). The power of asking: How communication affects selfishness, empathy, and altruism. Journal of public economics, 95(7-8), 513-520.~~
 *	Berg, J., Dickhaut, J., & McCabe, K. (1995). Trust, reciprocity, and social history. Games and economic behavior, 10(1), 122-142
 *	Bicchieri, C., Dimant, E., & Gächter, S. (2020). Observability, social proximity, and the erosion of norm compliance. Working paper 
-*	Charness, G., & Dufwenberg, M. (2006). Promises and partnership. Econometrica, 74(6), 1579-1601.
+* **Anastasia Klimova**	~~Charness, G., & Dufwenberg, M. (2006). Promises and partnership. Econometrica, 74(6), 1579-1601.~~
 *	Chen, Y., & Li, S. X. (2009). Group identity and social preferences. American Economic Review, 99(1), 431-57
 *	Cox, J. C. (2004). How to identify trust and reciprocity. Games and economic behavior, 46(2), 260-281.
 *	Dana, J., Weber, R. A., & Kuang, J. X. (2007). Exploiting moral wiggle room: experiments demonstrating an illusory preference for fairness. Economic Theory, 33(1), 67-80
