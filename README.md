@@ -8,7 +8,7 @@ Welcome to the course website! All course announcements, reading assignments, an
 * 1/19: **Equilibrium and coordination**
 * 1/26: **Dynamic games**
 * 2/2: **Prosocial behavior** 
-* 2/9: **Midterm**  + Primer on oTree and experimental design  
+* 2/9: **Midterm**  + **Final date for selecting presentation** + Primer on oTree and experimental design   
 * 3/2: Student presentations
 * 3/9: Student presentations
 * 3/16: **Final project due date** + Student presentations
@@ -51,8 +51,9 @@ Please select a paper to present from the following list and send me an email wi
 *	Berg, J., Dickhaut, J., & McCabe, K. (1995). Trust, reciprocity, and social history. Games and economic behavior, 10(1), 122-142
 *	Bicchieri, C., Dimant, E., & Gächter, S. (2020). Observability, social proximity, and the erosion of norm compliance. Working paper 
 * **Anastasia Klimova**	~~Charness, G., & Dufwenberg, M. (2006). Promises and partnership. Econometrica, 74(6), 1579-1601.~~
-*	Chen, Y., & Li, S. X. (2009). Group identity and social preferences. American Economic Review, 99(1), 431-57
+*	**Kristina** ~~Chen, Y., & Li, S. X. (2009). Group identity and social preferences. American Economic Review, 99(1), 431-57~~
 *	Cox, J. C. (2004). How to identify trust and reciprocity. Games and economic behavior, 46(2), 260-281.
-*	Dana, J., Weber, R. A., & Kuang, J. X. (2007). Exploiting moral wiggle room: experiments demonstrating an illusory preference for fairness. Economic Theory, 33(1), 67-80
+*	Dal Bó, E., & Dal Bó, P. (2014). “Do the right thing:” the effects of moral suasion on cooperation. Journal of Public Economics, 117, 28-38.
+*	**Andrey** ~~Dana, J., Weber, R. A., & Kuang, J. X. (2007). Exploiting moral wiggle room: experiments demonstrating an illusory preference for fairness. Economic Theory, 33(1), 67-80~~
 *	Fehr, E., & Gächter, S. (2000). Cooperation and punishment in public goods experiments. American Economic Review, 90(4), 980-994
 *	Kimbrough, E. O., & Vostroknutov, A. (2016). Norms make preferences social. Journal of the European Economic Association, 14(3), 608-638.
