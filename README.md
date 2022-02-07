@@ -32,7 +32,7 @@ Please select a paper to present from the following list and send me an email wi
 *Rationality and higher-order thinking*
 
 *	Brocas, I., Carrillo, J. D., & Sachdeva, A. (2018). The path to equilibrium in sequential and simultaneous games: A mousetracking study. Journal of Economic Theory, 178, 246-274.
-*	Burchardi, Konrad B., and Stefan P. Penczynski. "Out of your mind: Eliciting individual reasoning in one shot games." Games and Economic Behavior 84 (2014): 39-57.
+*	**Dmitry** ~~Burchardi, Konrad B., and Stefan P. Penczynski. "Out of your mind: Eliciting individual reasoning in one shot games." Games and Economic Behavior 84 (2014): 39-57.~~
 *	Kneeland, T. (2015). Identifying Higher‐Order Rationality. Econometrica, 83(5), 2065-2079.
 
 *Equilibrium and coordination* 
