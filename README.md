@@ -61,4 +61,4 @@ Please select a paper to present from the following list and send me an email wi
 *	**Sapar** ~~Dal Bó, E., & Dal Bó, P. (2014). “Do the right thing:” the effects of moral suasion on cooperation. Journal of Public Economics, 117, 28-38.~~
 *	**Andrey** ~~Dana, J., Weber, R. A., & Kuang, J. X. (2007). Exploiting moral wiggle room: experiments demonstrating an illusory preference for fairness. Economic Theory, 33(1), 67-80~~
 *	**Natalia** ~~Fehr, E., & Gächter, S. (2000). Cooperation and punishment in public goods experiments. American Economic Review, 90(4), 980-994~~
-*	Kimbrough, E. O., & Vostroknutov, A. (2016). Norms make preferences social. Journal of the European Economic Association, 14(3), 608-638.
+*	**Nikita** ~~Kimbrough, E. O., & Vostroknutov, A. (2016). Norms make preferences social. Journal of the European Economic Association, 14(3), 608-638.~~
